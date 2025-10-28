@@ -2,7 +2,19 @@
 
 ### 一、集成方式
 
-#### 1.1: cocoapods依赖
+#### 1.1: Swift Package Manager (SPM) 依赖
+
+在Xcode中，选择您的项目 -> Package Dependencies -> 点击 + 按钮
+
+- 输入仓库URL: `https://github.com/didi/DoraemonKit.git` 或者本地路径
+- 选择依赖规则
+- 选择需要的模块：
+  - `DoraemonKit` - 完整库，包含所有功能
+  - 或选择单个模块：`DoraemonKitCore`、`DoraemonKitWithLogger`、`DoraemonKitWithGPS`等
+
+**注意**：建议只在Debug环境中使用，可通过修改Target Membership在Release环境中移除。
+
+#### 1.2: cocoapods依赖
 
 ```
     pod 'DoraemonKit/Core', '~> 3.0.4', :configurations => ['Debug'] //必选
@@ -27,7 +39,7 @@ Core subspec作为核心，必须引入。
 
 如果你要使用[MLeaksFinder](https://github.com/Tencent/MLeaksFinder)查找内存泄漏的问题的话，那就请接入WithMLeaksFinder subspec。
 
-#### 1.2: Carthage依赖
+#### 1.3: Carthage依赖
 
 ```
 git "https://github.com/didi/DoraemonKit.git"  "c3.0.4"
@@ -38,6 +50,25 @@ git "https://github.com/didi/DoraemonKit.git"  "c3.0.4"
 
 
 ### 二、使用DoraemonKit内置工具集的接入方式
+
+#### Swift项目 (SPM方式导入)
+
+```swift
+import DoKit
+
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+    #if DEBUG
+        // 初始化DoraemonKit
+        DoraemonManager.shareInstance().install()
+        // 或者指定初始位置
+        // DoraemonManager.shareInstance().install(withStartingPosition: CGPoint(x: 66, y: 66))
+    #endif
+    return true
+}
+```
+
+#### Objective-C项目
+
 在App启动的时候添加一下代码
 
 ```objective-c

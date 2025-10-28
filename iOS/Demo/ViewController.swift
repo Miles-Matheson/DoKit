@@ -15,12 +15,29 @@
  */
 
 import UIKit
+import DoKit
 
 class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        // 初始化DoraemonKit - SPM版本
+        // 在实际使用时，开发者可以通过Xcode的"Add Package Dependency"功能导入此库
+        
+        // 创建一个简单的标签来显示SPM导入成功
+        let label = UILabel(frame: CGRect(x: 20, y: 100, width: view.frame.width - 40, height: 100))
+        label.text = "DoraemonKit (SPM版本)"
+        label.textAlignment = .center
+        label.font = UIFont.systemFont(ofSize: 24)
+        label.textColor = .blue
+        view.addSubview(label)
+        
+        let subtitleLabel = UILabel(frame: CGRect(x: 20, y: 150, width: view.frame.width - 40, height: 100))
+        subtitleLabel.text = "可通过SPM方式导入此开发工具库"
+        subtitleLabel.textAlignment = .center
+        subtitleLabel.font = UIFont.systemFont(ofSize: 16)
+        subtitleLabel.textColor = .gray
+        view.addSubview(subtitleLabel)
     }
 
 }

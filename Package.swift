@@ -83,7 +83,7 @@ let package = Package(
                 "DoraemonKitWithMLeaksFinder",
                 "DoraemonKitWithWeex",
             ],
-            path: "DoraemonKit/Src"
+            path: "iOS/DoraemonKit/Src"
         ),
         
         // Core 模块
@@ -95,7 +95,7 @@ let package = Package(
                 "GCDWebServer",
                 "JSONModel",
             ],
-            path: "DoraemonKit/Src/Core"
+            path: "iOS/DoraemonKit/Src/Core"
         ),
         
         // Foundation 模块
@@ -105,7 +105,7 @@ let package = Package(
                 "Mantle",
                 "SocketRocket",
             ],
-            path: "DoraemonKit/Src/Foundation"
+            path: "iOS/DoraemonKit/Src/Foundation"
         ),
         
         // MultiControl 模块
@@ -120,7 +120,7 @@ let package = Package(
                 "Masonry",
                 "SocketRocket",
             ],
-            path: "DoraemonKit/Src/MultiControl"
+            path: "iOS/DoraemonKit/Src/MultiControl"
         ),
         
         // Logger 模块
@@ -130,7 +130,7 @@ let package = Package(
                 "DoraemonKitCore",
                 "CocoaLumberjack",
             ],
-            path: "DoraemonKit/Src/Logger"
+            path: "iOS/DoraemonKit/Src/Logger"
         ),
         
         // GPS 模块
@@ -139,7 +139,7 @@ let package = Package(
             dependencies: [
                 "DoraemonKitCore",
             ],
-            path: "DoraemonKit/Src/GPS"
+            path: "iOS/DoraemonKit/Src/GPS"
         ),
         
         // Load 模块
@@ -148,7 +148,7 @@ let package = Package(
             dependencies: [
                 "DoraemonKitCore",
             ],
-            path: "DoraemonKit/Src/MethodUseTime"
+            path: "iOS/DoraemonKit/Src/MethodUseTime"
         ),
         
         // Database 模块
@@ -158,7 +158,7 @@ let package = Package(
                 "DoraemonKitCore",
                 "FMDB",
             ],
-            path: "DoraemonKit/Src/Database"
+            path: "iOS/DoraemonKit/Src/Database"
         ),
         
         // MLeaksFinder 模块
@@ -167,7 +167,7 @@ let package = Package(
             dependencies: [
                 "DoraemonKitCore",
             ],
-            path: "DoraemonKit/Src/MLeaksFinder"
+            path: "iOS/DoraemonKit/Src/MLeaksFinder"
         ),
         
         // Weex 模块
@@ -176,7 +176,7 @@ let package = Package(
             dependencies: [
                 "DoraemonKitCore",
             ],
-            path: "DoraemonKit/Src/Weex"
+            path: "iOS/DoraemonKit/Src/Weex"
         ),
         
         // DoKit 模块
@@ -186,7 +186,7 @@ let package = Package(
                 "AFNetworking",
                 "SocketRocket",
             ],
-            path: "DoKit/Classes"
-        ),
+            path: "iOS/DoKit/Classes"
+        )
     ]
 )

@@ -23,13 +23,14 @@ let package = Package(
         // Core：对齐 Podspec 中的 Core 子模块
         .target(
             name: "DoraemonKitCore",
-            path: "iOS/DoraemonKit/Src/Core",
+            path: "iOS/DoraemonKit",
+            sources: ["Src/Core"],
             exclude: [],
             resources: [
-                // DoKit 资源目录
-                .process("../../DoraemonKit/Resource")
+                // 资源必须位于 target 路径内
+                .process("Resource")
             ],
-            publicHeadersPath: ".",
+            publicHeadersPath: "Src/Core",
             cSettings: [],
             linkerSettings: [],
             dependencies: [
@@ -42,9 +43,10 @@ let package = Package(
         // 可选 Logger：对齐 Podspec WithLogger
         .target(
             name: "DoraemonKitLogger",
-            path: "iOS/DoraemonKit/Src/Logger",
+            path: "iOS/DoraemonKit",
+            sources: ["Src/Logger"],
             exclude: [],
-            publicHeadersPath: ".",
+            publicHeadersPath: "Src/Logger",
             cSettings: [
                 .define("DoraemonWithLogger")
             ],
@@ -52,13 +54,6 @@ let package = Package(
                 "DoraemonKitCore",
                 .product(name: "CocoaLumberjack", package: "CocoaLumberjack")
             ]
-        ),
-
-        .testTarget(
-            name: "DoraemonKitTests",
-            dependencies: ["DoraemonKitCore"],
-            path: "iOS/Demo",
-            exclude: []
         )
     ]
 )

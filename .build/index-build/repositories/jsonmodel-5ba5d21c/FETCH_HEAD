@@ -1,0 +1,295 @@
+20f00985bb2e470f978615443f878c59435f87ce	not-for-merge	branch 'key-mapper-class' of https://github.com/jsonmodel/jsonmodel
+78f8da09899348e203cd9ac7b729c92b4a24c458	not-for-merge	branch 'master' of https://github.com/jsonmodel/jsonmodel
+f61ccc402fcd81c04dfabd06020a50a40988bc6d	not-for-merge	branch 'old/caching' of https://github.com/jsonmodel/jsonmodel
+7aca36da3d0948659b42b1b4d3de8590904662bb	not-for-merge	branch 'old/coredata' of https://github.com/jsonmodel/jsonmodel
+f8350d817688be956967942fcf26d1bd1c2f728d	not-for-merge	'refs/pull/10/head' of https://github.com/jsonmodel/jsonmodel
+28184f7a4fb26c1728e8c9bfd41e7847b60b4fb4	not-for-merge	'refs/pull/10/merge' of https://github.com/jsonmodel/jsonmodel
+d88765439527238381d7a9456466d9c5b6400f6c	not-for-merge	'refs/pull/100/head' of https://github.com/jsonmodel/jsonmodel
+ccbde6cd5bfab5c4ec82b395ffd166b00a56ed57	not-for-merge	'refs/pull/100/merge' of https://github.com/jsonmodel/jsonmodel
+abf6cfd1cb80689831b134b4ee089d4fb73c04ea	not-for-merge	'refs/pull/102/head' of https://github.com/jsonmodel/jsonmodel
+8b8473d3b721747c361a40d0bd90dfaab38ddf5f	not-for-merge	'refs/pull/102/merge' of https://github.com/jsonmodel/jsonmodel
+c795ce73b2f125faff78633b8eda7602d707b2b2	not-for-merge	'refs/pull/104/head' of https://github.com/jsonmodel/jsonmodel
+f9f502934d01fad96d1f1746166343e36644ec05	not-for-merge	'refs/pull/104/merge' of https://github.com/jsonmodel/jsonmodel
+90728f1553efa15d03aa0e93ffea2896d798277c	not-for-merge	'refs/pull/105/head' of https://github.com/jsonmodel/jsonmodel
+57163aa31de2bbf647b183b29eea32ade367928c	not-for-merge	'refs/pull/105/merge' of https://github.com/jsonmodel/jsonmodel
+b1cba8709db62490b19acd075245eab479dd6438	not-for-merge	'refs/pull/107/head' of https://github.com/jsonmodel/jsonmodel
+4541de1f0f3b52013dd6b343519311b62cf9fd42	not-for-merge	'refs/pull/107/merge' of https://github.com/jsonmodel/jsonmodel
+212281305055c3f6a95813ed914bbd942a19eda3	not-for-merge	'refs/pull/108/head' of https://github.com/jsonmodel/jsonmodel
+0c1b59431b0879b6ccb0c38e978a8df479110412	not-for-merge	'refs/pull/108/merge' of https://github.com/jsonmodel/jsonmodel
+d25050d5dbccef61c551be658a5c2b3357d7b994	not-for-merge	'refs/pull/11/head' of https://github.com/jsonmodel/jsonmodel
+2ee0aa7d1258523090dd383b5e5e35fb236c9a20	not-for-merge	'refs/pull/11/merge' of https://github.com/jsonmodel/jsonmodel
+3b11a405ac6734b008b3239ba2372c19f6e2a48d	not-for-merge	'refs/pull/111/head' of https://github.com/jsonmodel/jsonmodel
+0cd05a3c32507eff17a7c873c32c97c1b5cae76c	not-for-merge	'refs/pull/117/head' of https://github.com/jsonmodel/jsonmodel
+f54b30857ab14e2adbfd056a8a760036c5c4c16d	not-for-merge	'refs/pull/118/head' of https://github.com/jsonmodel/jsonmodel
+3c4580e05f49adb55f9bed9da861fc34dadb271c	not-for-merge	'refs/pull/119/head' of https://github.com/jsonmodel/jsonmodel
+ddd82142afb53958d3afabca3a7027e82edf6929	not-for-merge	'refs/pull/122/head' of https://github.com/jsonmodel/jsonmodel
+26bf4b5d94099e6eacaf63caed89190d0db3b8ae	not-for-merge	'refs/pull/123/head' of https://github.com/jsonmodel/jsonmodel
+c873d6505c7b638349f4240856bc83f971c36cc0	not-for-merge	'refs/pull/123/merge' of https://github.com/jsonmodel/jsonmodel
+4cfd3a321d2d7fb7e0f9cbdf2d53ef6411739cc5	not-for-merge	'refs/pull/124/head' of https://github.com/jsonmodel/jsonmodel
+5c7e5ff03fcb70034f66c606ef315d5038c74106	not-for-merge	'refs/pull/128/head' of https://github.com/jsonmodel/jsonmodel
+b8ce8318eff6dd456c0cb4831afe67c8857514ea	not-for-merge	'refs/pull/128/merge' of https://github.com/jsonmodel/jsonmodel
+706e0a7b93a10842ed2a474e341632da006f2e54	not-for-merge	'refs/pull/133/head' of https://github.com/jsonmodel/jsonmodel
+120da21673ee4927522f41af9c4129f2422b5287	not-for-merge	'refs/pull/139/head' of https://github.com/jsonmodel/jsonmodel
+20bd28944c3cd502dadd719b85f03e5f1b5b8873	not-for-merge	'refs/pull/14/head' of https://github.com/jsonmodel/jsonmodel
+c2c2beda96ed55c9d48d437d7a66ddf530b21320	not-for-merge	'refs/pull/14/merge' of https://github.com/jsonmodel/jsonmodel
+bccf91920ba692afadfe1d345ec88e15aff1cc18	not-for-merge	'refs/pull/140/head' of https://github.com/jsonmodel/jsonmodel
+3adc0fc897b84bd590f53d1b781f76ed83f51f33	not-for-merge	'refs/pull/142/head' of https://github.com/jsonmodel/jsonmodel
+4e27403d4522666494d5a99e75c5aeed57af2ad9	not-for-merge	'refs/pull/142/merge' of https://github.com/jsonmodel/jsonmodel
+e92f6f6e3f1e41dc7211109eadddd372fb3fbfbc	not-for-merge	'refs/pull/143/head' of https://github.com/jsonmodel/jsonmodel
+af9bed159ea34df0d43f18d10befd863d81cdee8	not-for-merge	'refs/pull/143/merge' of https://github.com/jsonmodel/jsonmodel
+e1fe06217041dcf429b4f345aa2a79807ebb9863	not-for-merge	'refs/pull/148/head' of https://github.com/jsonmodel/jsonmodel
+c7818e97beac431b7f1a84d0da9d773158d134db	not-for-merge	'refs/pull/149/head' of https://github.com/jsonmodel/jsonmodel
+31540a4423d17d177bc858ee54d52a575fd1dfe6	not-for-merge	'refs/pull/150/head' of https://github.com/jsonmodel/jsonmodel
+bb9ed573b909a8e5215acb75c8800e49c0bf9191	not-for-merge	'refs/pull/150/merge' of https://github.com/jsonmodel/jsonmodel
+6d83ccb941b8916b220ca838579a4c5298416380	not-for-merge	'refs/pull/153/head' of https://github.com/jsonmodel/jsonmodel
+19f7679a474f5d57296bf0dfb43e8e09502a2bbe	not-for-merge	'refs/pull/157/head' of https://github.com/jsonmodel/jsonmodel
+65b1ef3659a4732f52c65da737de53c8f9c2a9d5	not-for-merge	'refs/pull/159/head' of https://github.com/jsonmodel/jsonmodel
+5c0f549e33a688a99a40a1e3831656a29871205a	not-for-merge	'refs/pull/169/head' of https://github.com/jsonmodel/jsonmodel
+71da6b43aa021d91865c5e057c1f06fe110824b6	not-for-merge	'refs/pull/17/head' of https://github.com/jsonmodel/jsonmodel
+d47998cd0d1c93e7810586ddb61453927bc5eed2	not-for-merge	'refs/pull/17/merge' of https://github.com/jsonmodel/jsonmodel
+4d0335f95c2f721019481a6f96985aa1c4a243e0	not-for-merge	'refs/pull/170/head' of https://github.com/jsonmodel/jsonmodel
+c729998053d35518e0295ae00c02d0bffd601a7a	not-for-merge	'refs/pull/174/head' of https://github.com/jsonmodel/jsonmodel
+5faecd61f6fe667135da1bba7dc7213d88dff22c	not-for-merge	'refs/pull/174/merge' of https://github.com/jsonmodel/jsonmodel
+97238ee9d5c3710bbc4d334b812e5d66615b77d7	not-for-merge	'refs/pull/176/head' of https://github.com/jsonmodel/jsonmodel
+74d31038468971b648f889f3694db6cfbc385ff7	not-for-merge	'refs/pull/177/head' of https://github.com/jsonmodel/jsonmodel
+857cf735fe75100566fda084f659ff9d5bfb634e	not-for-merge	'refs/pull/177/merge' of https://github.com/jsonmodel/jsonmodel
+7309bb5a0be1c15c68a2c6dcbfe9d81adafcf8a5	not-for-merge	'refs/pull/18/head' of https://github.com/jsonmodel/jsonmodel
+e62bc7855ad06694f21aee189cf7b213136a9ef9	not-for-merge	'refs/pull/18/merge' of https://github.com/jsonmodel/jsonmodel
+95d0401e11204a1e9f8a7b2c77b9d909f96f1953	not-for-merge	'refs/pull/184/head' of https://github.com/jsonmodel/jsonmodel
+1f88d4f2c29a8b530c580e67220515f58975bac7	not-for-merge	'refs/pull/184/merge' of https://github.com/jsonmodel/jsonmodel
+10b5a0e6e274cee96224b98de0d6cdf97457c0a1	not-for-merge	'refs/pull/187/head' of https://github.com/jsonmodel/jsonmodel
+978df300e7b22d7b6228482f59e6344643a266c7	not-for-merge	'refs/pull/198/head' of https://github.com/jsonmodel/jsonmodel
+ef032159ae02748cfdb99ddf5916e79dd4d61ef7	not-for-merge	'refs/pull/200/head' of https://github.com/jsonmodel/jsonmodel
+f93a371785339a905153a08a85efb329948595ae	not-for-merge	'refs/pull/203/head' of https://github.com/jsonmodel/jsonmodel
+75ef49f9577eb9b2c59d253bb2d48bc497753df4	not-for-merge	'refs/pull/208/head' of https://github.com/jsonmodel/jsonmodel
+5676cb10da42a47528d15c59c6a2432f547ea382	not-for-merge	'refs/pull/208/merge' of https://github.com/jsonmodel/jsonmodel
+dd7e8f76dd3432a2e4e330d1104aec652c244f8c	not-for-merge	'refs/pull/209/head' of https://github.com/jsonmodel/jsonmodel
+e42bc16d025a22661c5f539e602c6359851e5c3a	not-for-merge	'refs/pull/210/head' of https://github.com/jsonmodel/jsonmodel
+92b933fd78204972d55efd56d8da4916d0e9df0e	not-for-merge	'refs/pull/221/head' of https://github.com/jsonmodel/jsonmodel
+3b2892229600d5596e89dc9e4a63ba6c9fa2c678	not-for-merge	'refs/pull/221/merge' of https://github.com/jsonmodel/jsonmodel
+8ddf00614b012c63c6ad3661d189612b0cc887e8	not-for-merge	'refs/pull/223/head' of https://github.com/jsonmodel/jsonmodel
+08da46641fba1770f195090615e1a25e7bf2aca8	not-for-merge	'refs/pull/223/merge' of https://github.com/jsonmodel/jsonmodel
+f3df53d68f7401cb9c28c43413521ffd3f032a70	not-for-merge	'refs/pull/226/head' of https://github.com/jsonmodel/jsonmodel
+5f44f65f2b76de0aa13e71793dd560bba7db0d95	not-for-merge	'refs/pull/227/head' of https://github.com/jsonmodel/jsonmodel
+7df514746007d5a65723587efeaafd14c566bf8c	not-for-merge	'refs/pull/230/head' of https://github.com/jsonmodel/jsonmodel
+0c687eb359187d9ecf730dccd8d2d6230a3c7328	not-for-merge	'refs/pull/230/merge' of https://github.com/jsonmodel/jsonmodel
+7767f2ccb57dc6c4617f5c5f2c8e935700cec77c	not-for-merge	'refs/pull/233/head' of https://github.com/jsonmodel/jsonmodel
+57d564886bc86a59a3d69dccdca56a98d405c9a7	not-for-merge	'refs/pull/237/head' of https://github.com/jsonmodel/jsonmodel
+259f31c45869809c0db1bc67a125cd4b90bc5c48	not-for-merge	'refs/pull/237/merge' of https://github.com/jsonmodel/jsonmodel
+5800a0f27b96040124e6f58b616945ea84d8f5cb	not-for-merge	'refs/pull/238/head' of https://github.com/jsonmodel/jsonmodel
+bef8d577898aedd65aa728cabc65d3c740c6957b	not-for-merge	'refs/pull/243/head' of https://github.com/jsonmodel/jsonmodel
+a27459aed87e5eaa72cac5d92e7c88bef7e43817	not-for-merge	'refs/pull/244/head' of https://github.com/jsonmodel/jsonmodel
+de729c16568e2e786272528605b95455ffaac749	not-for-merge	'refs/pull/244/merge' of https://github.com/jsonmodel/jsonmodel
+036d4146867e353c80e3c49dca54b77a0c470e23	not-for-merge	'refs/pull/256/head' of https://github.com/jsonmodel/jsonmodel
+7688cf438ceb5d4cb840cb39cda7dd3d50707131	not-for-merge	'refs/pull/256/merge' of https://github.com/jsonmodel/jsonmodel
+37508798de3e424ef0fd9598a38c5191af17a0da	not-for-merge	'refs/pull/261/head' of https://github.com/jsonmodel/jsonmodel
+40d82704b0deeadd5710e8b0a9becbc6f320b7b3	not-for-merge	'refs/pull/261/merge' of https://github.com/jsonmodel/jsonmodel
+79e10692aaa63b566ea0665a4cbceab28e35b549	not-for-merge	'refs/pull/265/head' of https://github.com/jsonmodel/jsonmodel
+8235a8f9a8ca06afd50583dfbdb6ee80cc4b0890	not-for-merge	'refs/pull/265/merge' of https://github.com/jsonmodel/jsonmodel
+fca85f801c630ad84cf07e226ce89d991647b20b	not-for-merge	'refs/pull/269/head' of https://github.com/jsonmodel/jsonmodel
+23200b58e3b306640d2dae93deac42d688c96350	not-for-merge	'refs/pull/272/head' of https://github.com/jsonmodel/jsonmodel
+eda4f303904d653951ea3e8bcd74b1959a63b501	not-for-merge	'refs/pull/272/merge' of https://github.com/jsonmodel/jsonmodel
+bd0b8c2fdbedbb50ea05e572e5ec77b0c0c8146e	not-for-merge	'refs/pull/276/head' of https://github.com/jsonmodel/jsonmodel
+9184a339bcb825aa1f8709dcc205c37d734b2f08	not-for-merge	'refs/pull/286/head' of https://github.com/jsonmodel/jsonmodel
+e798444e6e0b0f2bfe3e479d69ef7d96cedee719	not-for-merge	'refs/pull/297/head' of https://github.com/jsonmodel/jsonmodel
+225d39c6b900b9a725683c35876bb8efaec28468	not-for-merge	'refs/pull/30/head' of https://github.com/jsonmodel/jsonmodel
+c8f8cca8feab59e2531e0fdbfdb61f9ad620d81f	not-for-merge	'refs/pull/30/merge' of https://github.com/jsonmodel/jsonmodel
+3d24db9fd6beed663e239ed57db09001bb339382	not-for-merge	'refs/pull/31/head' of https://github.com/jsonmodel/jsonmodel
+d68667d81263c66517f9fcc0e12d908f31effdc7	not-for-merge	'refs/pull/31/merge' of https://github.com/jsonmodel/jsonmodel
+80944e6c365e6de8398c27a88cde5c5bd87c0500	not-for-merge	'refs/pull/312/head' of https://github.com/jsonmodel/jsonmodel
+2fdee14800a39e1ba1285daa6b4456e463cb54e0	not-for-merge	'refs/pull/312/merge' of https://github.com/jsonmodel/jsonmodel
+c795a5dfa244ece25f5b1fc8047e11f2d49dac87	not-for-merge	'refs/pull/317/head' of https://github.com/jsonmodel/jsonmodel
+ecd6ee22abdeb74efc254bc0913ffe33cef6cf21	not-for-merge	'refs/pull/319/head' of https://github.com/jsonmodel/jsonmodel
+5a8891373209f8018c895fb06545bcb34e174ef6	not-for-merge	'refs/pull/319/merge' of https://github.com/jsonmodel/jsonmodel
+3416cf8046a2c3d19dbe8a068a50bfdd47c64517	not-for-merge	'refs/pull/32/head' of https://github.com/jsonmodel/jsonmodel
+9a04f918003189454d4dbd12ee2f46c40281cebf	not-for-merge	'refs/pull/32/merge' of https://github.com/jsonmodel/jsonmodel
+a8c7813696de57ce72655ee36b05a50ba51b63fb	not-for-merge	'refs/pull/320/head' of https://github.com/jsonmodel/jsonmodel
+adb8ef32ed820295d24cc40e8765e194d0b75e3a	not-for-merge	'refs/pull/320/merge' of https://github.com/jsonmodel/jsonmodel
+fc765b4c0b954ffb705a465aa6409246196b1aad	not-for-merge	'refs/pull/323/head' of https://github.com/jsonmodel/jsonmodel
+63439d4b910761a1becef6eeb3737564460bbe34	not-for-merge	'refs/pull/329/head' of https://github.com/jsonmodel/jsonmodel
+0b78aae4d1d4cced21b34b6320525685fbf920b0	not-for-merge	'refs/pull/33/head' of https://github.com/jsonmodel/jsonmodel
+885ab18b6be5652cbb34741d9f785524d86ace78	not-for-merge	'refs/pull/33/merge' of https://github.com/jsonmodel/jsonmodel
+dfc52531d3901cba98ce4fed59f833c0ef694db8	not-for-merge	'refs/pull/332/head' of https://github.com/jsonmodel/jsonmodel
+16199a746657acf8cfadd8c216dea8ee1aa68e01	not-for-merge	'refs/pull/332/merge' of https://github.com/jsonmodel/jsonmodel
+2e5a551d0c55eeb8c2e0d64ad1338a65fcf92ad5	not-for-merge	'refs/pull/337/head' of https://github.com/jsonmodel/jsonmodel
+799a43c08fc356bf8e86fdbdc58b08ff701764a8	not-for-merge	'refs/pull/34/head' of https://github.com/jsonmodel/jsonmodel
+3857bf476eaf113871df76291ce57e85e5346f78	not-for-merge	'refs/pull/34/merge' of https://github.com/jsonmodel/jsonmodel
+4ea460b708b9d3f3bc04ea490758ba079808237d	not-for-merge	'refs/pull/342/head' of https://github.com/jsonmodel/jsonmodel
+fd4fad17b3669493ff2e7a58fedb2970de2dea4e	not-for-merge	'refs/pull/343/head' of https://github.com/jsonmodel/jsonmodel
+d4a8ac22abf5c0feefe7230cfa72d791b0791dc0	not-for-merge	'refs/pull/346/head' of https://github.com/jsonmodel/jsonmodel
+2b0d30a65cde70cece2ede286836acef9f727f2f	not-for-merge	'refs/pull/35/head' of https://github.com/jsonmodel/jsonmodel
+90a37775bee3afd7dc2ac8b68c38baa5e9051287	not-for-merge	'refs/pull/35/merge' of https://github.com/jsonmodel/jsonmodel
+be115db851cec51c4a2f5f12e4f49740b0d23c9e	not-for-merge	'refs/pull/352/head' of https://github.com/jsonmodel/jsonmodel
+fc35957c3403602a651dd236254357207948365a	not-for-merge	'refs/pull/352/merge' of https://github.com/jsonmodel/jsonmodel
+f31ebd9f49610fa617a5f34d9c13284465c1573a	not-for-merge	'refs/pull/356/head' of https://github.com/jsonmodel/jsonmodel
+258f5c30ec252004d438d66e9f13a638d8e8fd32	not-for-merge	'refs/pull/356/merge' of https://github.com/jsonmodel/jsonmodel
+2fee44b35976c6bb498a3bac14cbbb59f3baa130	not-for-merge	'refs/pull/36/head' of https://github.com/jsonmodel/jsonmodel
+b8a1dddea3748515dc9c33ca69fbd808c72c5848	not-for-merge	'refs/pull/36/merge' of https://github.com/jsonmodel/jsonmodel
+9711e0bdf852362791a05c9a7e248684dc580dac	not-for-merge	'refs/pull/361/head' of https://github.com/jsonmodel/jsonmodel
+899964882229960f02d16ea216a1e5669f871e37	not-for-merge	'refs/pull/361/merge' of https://github.com/jsonmodel/jsonmodel
+33548fd7aa00fe7b15f898469d5ae28ab26d0ceb	not-for-merge	'refs/pull/365/head' of https://github.com/jsonmodel/jsonmodel
+3e71562c5ebb8d79b5cb0da455fe0056714c2933	not-for-merge	'refs/pull/367/head' of https://github.com/jsonmodel/jsonmodel
+a7c7f3aec7c306a59f17c452b06003b23842fcc2	not-for-merge	'refs/pull/368/head' of https://github.com/jsonmodel/jsonmodel
+fc84f7a796e482aaf7c9686c8117eee6f7e9cba9	not-for-merge	'refs/pull/372/head' of https://github.com/jsonmodel/jsonmodel
+9763e2cc5c650637b4ad1b20e4ffbfa03df5b623	not-for-merge	'refs/pull/372/merge' of https://github.com/jsonmodel/jsonmodel
+7d57dc0366239aedebe1ad3273283c8d4eeb103d	not-for-merge	'refs/pull/388/head' of https://github.com/jsonmodel/jsonmodel
+3368b5df58682f8a14d77d47cbb51fd53bb9023a	not-for-merge	'refs/pull/388/merge' of https://github.com/jsonmodel/jsonmodel
+7e1cbb86ece6a8711b6f83e3276a161eaa5619a9	not-for-merge	'refs/pull/393/head' of https://github.com/jsonmodel/jsonmodel
+eef420a7f43e08196a171a31b0a25751b3414da5	not-for-merge	'refs/pull/394/head' of https://github.com/jsonmodel/jsonmodel
+5ee4ca66cbf0bf9e9752237aecf802c504bc6ddd	not-for-merge	'refs/pull/394/merge' of https://github.com/jsonmodel/jsonmodel
+71323af046e943a029756549a463fe0f55309fc2	not-for-merge	'refs/pull/395/head' of https://github.com/jsonmodel/jsonmodel
+abeb07f1ac2a4a9752e127310dad0fdf106e4dff	not-for-merge	'refs/pull/399/head' of https://github.com/jsonmodel/jsonmodel
+4573bc1891bc53866688ce54b492c481c5737309	not-for-merge	'refs/pull/399/merge' of https://github.com/jsonmodel/jsonmodel
+8254e083c12ef4d42a986678f78d275eb6b5e3eb	not-for-merge	'refs/pull/402/head' of https://github.com/jsonmodel/jsonmodel
+8dfbdf2e4e2edd974080531c8079616ce54428b8	not-for-merge	'refs/pull/408/head' of https://github.com/jsonmodel/jsonmodel
+bc2dc411871ba79ee0c85f58466ab1924e0d4554	not-for-merge	'refs/pull/412/head' of https://github.com/jsonmodel/jsonmodel
+a525f0319425f19620f244e65d95bd7fff348491	not-for-merge	'refs/pull/416/head' of https://github.com/jsonmodel/jsonmodel
+862270942292011a89c5bbbd097a2c8f25cd5ce2	not-for-merge	'refs/pull/416/merge' of https://github.com/jsonmodel/jsonmodel
+d6658f2639818aabe14a302fac2dc808aeeab648	not-for-merge	'refs/pull/419/head' of https://github.com/jsonmodel/jsonmodel
+aa9de4c4ef9e4b2fa8c377eb312c793b51b1eced	not-for-merge	'refs/pull/430/head' of https://github.com/jsonmodel/jsonmodel
+bf361f71adc94bc35cba3d948b229bbe9d5a3bc3	not-for-merge	'refs/pull/430/merge' of https://github.com/jsonmodel/jsonmodel
+e4b4b62743ae33dc6ef79702edc9d90ed35ff4dd	not-for-merge	'refs/pull/443/head' of https://github.com/jsonmodel/jsonmodel
+9e039123d306fdffcdd871203063e45560e13eab	not-for-merge	'refs/pull/451/head' of https://github.com/jsonmodel/jsonmodel
+cb4038e801352507c04c771c151bc992777d1206	not-for-merge	'refs/pull/456/head' of https://github.com/jsonmodel/jsonmodel
+01b1ac6baee542c9b2308220b472b2c3cd986152	not-for-merge	'refs/pull/456/merge' of https://github.com/jsonmodel/jsonmodel
+ca95c419c92f19252ad2a0084edbb9daece56541	not-for-merge	'refs/pull/464/head' of https://github.com/jsonmodel/jsonmodel
+eef87937765777d850fe805714abc5f88a9cd8d4	not-for-merge	'refs/pull/464/merge' of https://github.com/jsonmodel/jsonmodel
+5cc6bc630c135ff85c62de04f9d020932adca03e	not-for-merge	'refs/pull/468/head' of https://github.com/jsonmodel/jsonmodel
+360ff7288b8e64165319a474889481889b16ca22	not-for-merge	'refs/pull/482/head' of https://github.com/jsonmodel/jsonmodel
+c11895bd38ef97083dfdebd7aaae5ec9e7a04376	not-for-merge	'refs/pull/492/head' of https://github.com/jsonmodel/jsonmodel
+762b8b348e1aef0f8ccdcbedba22a804a24b61ff	not-for-merge	'refs/pull/494/head' of https://github.com/jsonmodel/jsonmodel
+41b004a735914e495b658c07bc562e64600caa48	not-for-merge	'refs/pull/494/merge' of https://github.com/jsonmodel/jsonmodel
+6e26e05c3287eefafb9ac9bbab6fe5f1d8581197	not-for-merge	'refs/pull/498/head' of https://github.com/jsonmodel/jsonmodel
+36318aac145040a8550ce0797e996025ffea1d1f	not-for-merge	'refs/pull/499/head' of https://github.com/jsonmodel/jsonmodel
+0ceb62e03cf95a01ce2be0899d99fba5baaa4a13	not-for-merge	'refs/pull/500/head' of https://github.com/jsonmodel/jsonmodel
+7bb7da7478876bcfe68857d0ecce997f3f774918	not-for-merge	'refs/pull/501/head' of https://github.com/jsonmodel/jsonmodel
+5ebdddd072e265a453dbf3b6fb1aa5bfe18036a9	not-for-merge	'refs/pull/504/head' of https://github.com/jsonmodel/jsonmodel
+e44f259d567d6d94af440831de06c1dd36e20875	not-for-merge	'refs/pull/504/merge' of https://github.com/jsonmodel/jsonmodel
+83d95c0128d3e69632a5de35081f574014e636e2	not-for-merge	'refs/pull/505/head' of https://github.com/jsonmodel/jsonmodel
+b356840cdffbd4a39c6452b1382ca405f0e005cf	not-for-merge	'refs/pull/505/merge' of https://github.com/jsonmodel/jsonmodel
+cec84797f2d030db31d448c700c22d20a43778f7	not-for-merge	'refs/pull/509/head' of https://github.com/jsonmodel/jsonmodel
+56ebe42427b60892ab96a54bd166f6fc2b29a7c2	not-for-merge	'refs/pull/510/head' of https://github.com/jsonmodel/jsonmodel
+466a21c7d2eceeda3525c33393a0926112a13810	not-for-merge	'refs/pull/518/head' of https://github.com/jsonmodel/jsonmodel
+af24eea5630636f51c8c898661759efd444afe2e	not-for-merge	'refs/pull/522/head' of https://github.com/jsonmodel/jsonmodel
+54fb3cade7166657819c39fa56ecfd33bcc8b6fe	not-for-merge	'refs/pull/522/merge' of https://github.com/jsonmodel/jsonmodel
+86569add4d3eb0a165171ce07a9231a26ceaa711	not-for-merge	'refs/pull/533/head' of https://github.com/jsonmodel/jsonmodel
+87cb61d14460791330e865776a7552b77c3b5c17	not-for-merge	'refs/pull/534/head' of https://github.com/jsonmodel/jsonmodel
+cce418b64f111e773e35aef15512d3e52fa44fc3	not-for-merge	'refs/pull/535/head' of https://github.com/jsonmodel/jsonmodel
+1b0b015c68ca780efa0aa6a97f4cf2395f99ed8a	not-for-merge	'refs/pull/539/head' of https://github.com/jsonmodel/jsonmodel
+fed0e5ea69e64bc677237ff393d7a90c9a1d9b4f	not-for-merge	'refs/pull/539/merge' of https://github.com/jsonmodel/jsonmodel
+20f00985bb2e470f978615443f878c59435f87ce	not-for-merge	'refs/pull/546/head' of https://github.com/jsonmodel/jsonmodel
+01ace92e9f8bf5324ea7bfa1cd9a765c8521c507	not-for-merge	'refs/pull/546/merge' of https://github.com/jsonmodel/jsonmodel
+c44aa58e792b351ef45bba53a167aa283146f298	not-for-merge	'refs/pull/551/head' of https://github.com/jsonmodel/jsonmodel
+c29ab6835461752ba171611a83b97a0de3b725fc	not-for-merge	'refs/pull/563/head' of https://github.com/jsonmodel/jsonmodel
+4b11232a274ef321c394f9808d6344e7ea39a80f	not-for-merge	'refs/pull/564/head' of https://github.com/jsonmodel/jsonmodel
+ea4fd311eab0d60fe91eda76a99cb57b3c19dd5f	not-for-merge	'refs/pull/564/merge' of https://github.com/jsonmodel/jsonmodel
+f7f16122cf526480a316b5366c769d043debc24b	not-for-merge	'refs/pull/567/head' of https://github.com/jsonmodel/jsonmodel
+3a17ac5897b54f40c426443e2dc018f2704387e7	not-for-merge	'refs/pull/567/merge' of https://github.com/jsonmodel/jsonmodel
+f7f16122cf526480a316b5366c769d043debc24b	not-for-merge	'refs/pull/568/head' of https://github.com/jsonmodel/jsonmodel
+be783ce9fb4ca6fad7ba38b6f3aa9cad658ba4f5	not-for-merge	'refs/pull/569/head' of https://github.com/jsonmodel/jsonmodel
+f938d647947c9e3ee27b7bab8083ebc73029befb	not-for-merge	'refs/pull/570/head' of https://github.com/jsonmodel/jsonmodel
+cd93447f155c6bf63ab3c5b57c92e3437ee45cbd	not-for-merge	'refs/pull/571/head' of https://github.com/jsonmodel/jsonmodel
+9e2fc84371ad14a48476265224715215317d13cb	not-for-merge	'refs/pull/571/merge' of https://github.com/jsonmodel/jsonmodel
+c3be528093032b84fc8d8c8c2b7e3d1fa3f7e56a	not-for-merge	'refs/pull/573/head' of https://github.com/jsonmodel/jsonmodel
+fe52b206808b4ab28b4aaf99ae410c9406b346ce	not-for-merge	'refs/pull/581/head' of https://github.com/jsonmodel/jsonmodel
+661f760dc4b1e1b4760a339f11a798d098197f6c	not-for-merge	'refs/pull/581/merge' of https://github.com/jsonmodel/jsonmodel
+5381af40aab2110660ad9f03d71f5c274d1d1ef3	not-for-merge	'refs/pull/583/head' of https://github.com/jsonmodel/jsonmodel
+05202cc5c4d0991c5c0d65c59a337cc210653974	not-for-merge	'refs/pull/594/head' of https://github.com/jsonmodel/jsonmodel
+f98f71fe030d9567d6229bf74b83cddd2d2baced	not-for-merge	'refs/pull/594/merge' of https://github.com/jsonmodel/jsonmodel
+2e60d506e167daf93ac536f17c452f67a871b133	not-for-merge	'refs/pull/6/head' of https://github.com/jsonmodel/jsonmodel
+aaa69d9876fe3359a00467340455fc2bc15c6f21	not-for-merge	'refs/pull/6/merge' of https://github.com/jsonmodel/jsonmodel
+2479a7dec9619faf52ad5a20aa3a1f23d3490383	not-for-merge	'refs/pull/60/head' of https://github.com/jsonmodel/jsonmodel
+805c0e181e52bb9c758b28b5d9b88883b462df29	not-for-merge	'refs/pull/60/merge' of https://github.com/jsonmodel/jsonmodel
+4e11514f5428e91ca17f031340b9f99229ac3bd5	not-for-merge	'refs/pull/600/head' of https://github.com/jsonmodel/jsonmodel
+acbcb37fa179fc3b16a3ade9d66dbc85fbb37a7e	not-for-merge	'refs/pull/611/head' of https://github.com/jsonmodel/jsonmodel
+ad1e6f7ed247d869db59ab57f3d5319d2c7b9655	not-for-merge	'refs/pull/613/head' of https://github.com/jsonmodel/jsonmodel
+4593d997ec81073ad1fb5010a535745d9540c90c	not-for-merge	'refs/pull/614/head' of https://github.com/jsonmodel/jsonmodel
+42121faa196c7250d976af53253d0c49f32fb8f7	not-for-merge	'refs/pull/614/merge' of https://github.com/jsonmodel/jsonmodel
+582cea966362028ddd488bb14dc2d92c7b097417	not-for-merge	'refs/pull/616/head' of https://github.com/jsonmodel/jsonmodel
+717cf7937a6576f70845d57a6b6ba956673ef2d8	not-for-merge	'refs/pull/616/merge' of https://github.com/jsonmodel/jsonmodel
+a5bb86829cdb7b048c8c747315537d29d931e24b	not-for-merge	'refs/pull/618/head' of https://github.com/jsonmodel/jsonmodel
+37719c6a147b9d2864528245950c8378a6c244ae	not-for-merge	'refs/pull/618/merge' of https://github.com/jsonmodel/jsonmodel
+d1e54353b4717bc0a193a1523a6c03943167e0f9	not-for-merge	'refs/pull/626/head' of https://github.com/jsonmodel/jsonmodel
+176eee21e1f8f5b6477d0e58d2800b99abaccc56	not-for-merge	'refs/pull/626/merge' of https://github.com/jsonmodel/jsonmodel
+92312ec44d5a44f5a9e868d9b10e3d59f466968e	not-for-merge	'refs/pull/628/head' of https://github.com/jsonmodel/jsonmodel
+dc6af4b60487e80e49279befeac0b4473262eb75	not-for-merge	'refs/pull/632/head' of https://github.com/jsonmodel/jsonmodel
+a88dae68cb41b06238b88024496ca89aeff5665c	not-for-merge	'refs/pull/632/merge' of https://github.com/jsonmodel/jsonmodel
+764d8869deef34fd1c0091433ed9276352a3e30e	not-for-merge	'refs/pull/637/head' of https://github.com/jsonmodel/jsonmodel
+c2d07b1ff1452c3925e4b79e3bc0de0d16b5cdd0	not-for-merge	'refs/pull/64/head' of https://github.com/jsonmodel/jsonmodel
+a742cca2cec3b7fd5678180a061018c162718de0	not-for-merge	'refs/pull/64/merge' of https://github.com/jsonmodel/jsonmodel
+43a2ebebf874461e20e69485df388448d622a776	not-for-merge	'refs/pull/643/head' of https://github.com/jsonmodel/jsonmodel
+a1aed231bd900c294258be7513bc1b355b673259	not-for-merge	'refs/pull/644/head' of https://github.com/jsonmodel/jsonmodel
+1370cb962e48d89f75a4213addeffd0cb39b2c5f	not-for-merge	'refs/pull/647/head' of https://github.com/jsonmodel/jsonmodel
+c32f9901bb14d03c2bd9a76c2b344d208183eba4	not-for-merge	'refs/pull/649/head' of https://github.com/jsonmodel/jsonmodel
+6ca5bf1107f3282cef6eaecbdd1512a602a1e499	not-for-merge	'refs/pull/649/merge' of https://github.com/jsonmodel/jsonmodel
+a6f2b1bed0f4020f15c596c4655fc18ecb0a6245	not-for-merge	'refs/pull/65/head' of https://github.com/jsonmodel/jsonmodel
+4258c2e78e8402371c26802d8e3c6358df22fc50	not-for-merge	'refs/pull/65/merge' of https://github.com/jsonmodel/jsonmodel
+d8c75cd7652f59d35ee004e9d7a34e3382b5bee5	not-for-merge	'refs/pull/650/head' of https://github.com/jsonmodel/jsonmodel
+3b506153c3a3124ce52aed8e53c6461730131307	not-for-merge	'refs/pull/650/merge' of https://github.com/jsonmodel/jsonmodel
+e9b7c321ecd2554570265516f1793678420dd5bb	not-for-merge	'refs/pull/652/head' of https://github.com/jsonmodel/jsonmodel
+0a0520466c8b6ddcf90918201dbecabf071bc8eb	not-for-merge	'refs/pull/652/merge' of https://github.com/jsonmodel/jsonmodel
+03628613d3aa7f9c381e719d9a1e0d9b05d1775f	not-for-merge	'refs/pull/66/head' of https://github.com/jsonmodel/jsonmodel
+e853363f19e7aa3b2544a13847e2c953e7cc6e99	not-for-merge	'refs/pull/66/merge' of https://github.com/jsonmodel/jsonmodel
+ef3aa12cc2b66a3bd866982401439dfc2fe4389d	not-for-merge	'refs/pull/71/head' of https://github.com/jsonmodel/jsonmodel
+347cbbd1af8ba4a6f04a2af6ee469aea50a539ae	not-for-merge	'refs/pull/71/merge' of https://github.com/jsonmodel/jsonmodel
+0f6c13f256cadf9fab5c7e974b4643fee2291416	not-for-merge	'refs/pull/72/head' of https://github.com/jsonmodel/jsonmodel
+574538fae184800258ff96da36a2711450faf58d	not-for-merge	'refs/pull/72/merge' of https://github.com/jsonmodel/jsonmodel
+3cedbd270c986a88a9bd03b7391dc5bebd360073	not-for-merge	'refs/pull/73/head' of https://github.com/jsonmodel/jsonmodel
+201f6594c45e354e370b99e1858120fad934fc1b	not-for-merge	'refs/pull/73/merge' of https://github.com/jsonmodel/jsonmodel
+634d295381288bbc5375858fefe20fa26a1a3e5b	not-for-merge	'refs/pull/74/head' of https://github.com/jsonmodel/jsonmodel
+f72ce9bcb6d3505a3a3e43c11b4b57a00b0c58ff	not-for-merge	'refs/pull/74/merge' of https://github.com/jsonmodel/jsonmodel
+1f3662fa3cf2aa79508feb13952f64f8b530b23a	not-for-merge	'refs/pull/75/head' of https://github.com/jsonmodel/jsonmodel
+54a7034b8268c4bae618e840c4de4c8da0faf884	not-for-merge	'refs/pull/75/merge' of https://github.com/jsonmodel/jsonmodel
+d9e0282a945be199b0f63f1033168188885cfeed	not-for-merge	'refs/pull/78/head' of https://github.com/jsonmodel/jsonmodel
+c222f3d7378633216fdd208706c423bda1855898	not-for-merge	'refs/pull/78/merge' of https://github.com/jsonmodel/jsonmodel
+7dcfa30cf6da361a6c754c5ca69e2c2c82a6c91f	not-for-merge	'refs/pull/79/head' of https://github.com/jsonmodel/jsonmodel
+69c4b02a96c81dbe3796e94924f52a6697f72115	not-for-merge	'refs/pull/79/merge' of https://github.com/jsonmodel/jsonmodel
+d0abee3601e42d98f27e96794c8896b9fb223b29	not-for-merge	'refs/pull/80/head' of https://github.com/jsonmodel/jsonmodel
+de373ea8ed98dc169c91cd52dbfc8e57b222f678	not-for-merge	'refs/pull/80/merge' of https://github.com/jsonmodel/jsonmodel
+55b11fdd9b39d25648c9079ad8a29643a27f4ad1	not-for-merge	'refs/pull/83/head' of https://github.com/jsonmodel/jsonmodel
+51591d4a5bee9d2883da4e71508fb8d801584c20	not-for-merge	'refs/pull/83/merge' of https://github.com/jsonmodel/jsonmodel
+b5cd3d7f097ecee0e1d492c03fc7a6f94ed7301d	not-for-merge	'refs/pull/87/head' of https://github.com/jsonmodel/jsonmodel
+9248d99a8bc56719b6f5472bf9275b32c47ca714	not-for-merge	'refs/pull/87/merge' of https://github.com/jsonmodel/jsonmodel
+c9c00146547929c2321659029c7a36732d05edd0	not-for-merge	'refs/pull/88/head' of https://github.com/jsonmodel/jsonmodel
+e995a387e0defaf4eb4880da950315835cde21aa	not-for-merge	'refs/pull/88/merge' of https://github.com/jsonmodel/jsonmodel
+62581ee0707ccbfcd8cf9c2b80bd366388089575	not-for-merge	'refs/pull/89/head' of https://github.com/jsonmodel/jsonmodel
+c476665e71f8eca065abfd279943523d68027a79	not-for-merge	'refs/pull/89/merge' of https://github.com/jsonmodel/jsonmodel
+3f789ff7736095fde321842f7ad1714c59457346	not-for-merge	'refs/pull/95/head' of https://github.com/jsonmodel/jsonmodel
+4f6cb052153645e992ee82a8feb164e4f27fd669	not-for-merge	'refs/pull/95/merge' of https://github.com/jsonmodel/jsonmodel
+c67ebffd9edad8164bd5150b62c3b22d0cd9efa3	not-for-merge	'refs/pull/96/head' of https://github.com/jsonmodel/jsonmodel
+1daf5dd2b29d9982621d087f6616b51660b2692a	not-for-merge	'refs/pull/96/merge' of https://github.com/jsonmodel/jsonmodel
+2e16423cf0350aa185c588dab31ccd096e617f42	not-for-merge	'refs/pull/97/head' of https://github.com/jsonmodel/jsonmodel
+077ae24b065f2d46a7e60aca7dcd5e7321de4b55	not-for-merge	'refs/pull/97/merge' of https://github.com/jsonmodel/jsonmodel
+c67ebffd9edad8164bd5150b62c3b22d0cd9efa3	not-for-merge	'refs/pull/98/head' of https://github.com/jsonmodel/jsonmodel
+353a11036597459b6fec87289bc2d76d500fd845	not-for-merge	'refs/pull/98/merge' of https://github.com/jsonmodel/jsonmodel
+9b711fbc6c2f0cd29c8c972c6289fd9b7a065033	not-for-merge	'refs/pull/99/head' of https://github.com/jsonmodel/jsonmodel
+195cd1f99547b2453874e56397c85f37dce795e7	not-for-merge	'refs/pull/99/merge' of https://github.com/jsonmodel/jsonmodel
+45d8a9ed7e42c2857867c8f517d91a8fa045d8cf	not-for-merge	tag '0.10.0' of https://github.com/jsonmodel/jsonmodel
+713909ef5045da66c18abd242b94d281e7c1fac5	not-for-merge	tag '0.11.0' of https://github.com/jsonmodel/jsonmodel
+84d8c658757975372329eedf8aa374eca8315fd9	not-for-merge	tag '0.12.0' of https://github.com/jsonmodel/jsonmodel
+fccba3d7739f6d8fba221b44232f3f04f122b6bb	not-for-merge	tag '0.13.0' of https://github.com/jsonmodel/jsonmodel
+729d25cbeba606ddd9790650ec23665ff2917815	not-for-merge	tag '0.7.8' of https://github.com/jsonmodel/jsonmodel
+9c741371ce5fd6e6959a58b1c8dabea24414999e	not-for-merge	tag '0.8.0' of https://github.com/jsonmodel/jsonmodel
+43c094dc57e131b2f33ed5488b798addc0c86a3f	not-for-merge	tag '0.8.1' of https://github.com/jsonmodel/jsonmodel
+e5213ecddd81b560fee09645ce8c4c14aff74cd4	not-for-merge	tag '0.8.2' of https://github.com/jsonmodel/jsonmodel
+d5ed2fb0b07b04c105ec0826af454a11d60f88a8	not-for-merge	tag '0.8.3' of https://github.com/jsonmodel/jsonmodel
+949c8f102a0b202d0d8fe0bd6745c39d4d3dfd78	not-for-merge	tag '0.8.4' of https://github.com/jsonmodel/jsonmodel
+24061eb7b24f3e3b611b972c6f55dc3d818820af	not-for-merge	tag '0.9.0' of https://github.com/jsonmodel/jsonmodel
+0b857e67475e30415b40df4ad24ea27597f9c249	not-for-merge	tag '0.9.1' of https://github.com/jsonmodel/jsonmodel
+7a30ffc5d9d8419aadca1f4adf5fb28b81c8b045	not-for-merge	tag '0.9.2' of https://github.com/jsonmodel/jsonmodel
+419b280df8279a59c650cce1f21a3e99d4f19b2f	not-for-merge	tag '0.9.3' of https://github.com/jsonmodel/jsonmodel
+8223c896aff7cfc76903304685be48d351b33e82	not-for-merge	tag '1.0.0' of https://github.com/jsonmodel/jsonmodel
+5e940c15911cc0ad5597e6713a922401e9347ae4	not-for-merge	tag '1.0.1' of https://github.com/jsonmodel/jsonmodel
+920dee1b7b401111050953e9676fba542b544b52	not-for-merge	tag '1.0.2' of https://github.com/jsonmodel/jsonmodel
+05b7f01b16f2e02c0074f4cd9c8b3e3e06c2b7cc	not-for-merge	tag '1.1.0' of https://github.com/jsonmodel/jsonmodel
+8a1ce0e76bce2cb49f40b97a4e95e241778ef1be	not-for-merge	tag '1.1.2' of https://github.com/jsonmodel/jsonmodel
+f50d314bfb904c65be39ee703b188b52a26a5679	not-for-merge	tag '1.2.0' of https://github.com/jsonmodel/jsonmodel
+573e8129854fa456fc9348ed85e5e08880ad41d3	not-for-merge	tag '1.3.0' of https://github.com/jsonmodel/jsonmodel
+142d6e14af573ea105b7f053c864de6895573744	not-for-merge	tag '1.4.0' of https://github.com/jsonmodel/jsonmodel
+9c8aa578518f3abd6823c5d107f20405ed3c8f67	not-for-merge	tag '1.4.1' of https://github.com/jsonmodel/jsonmodel
+d69ebfce11a13aa9e336451ceae476385f72cca2	not-for-merge	tag '1.4.2' of https://github.com/jsonmodel/jsonmodel
+df29dd3a7e15f01b26054665e3944d3ed9b9bea5	not-for-merge	tag '1.5.0' of https://github.com/jsonmodel/jsonmodel
+5c88c5e73912c856cb18d1fce05315d9ba612e73	not-for-merge	tag '1.5.1' of https://github.com/jsonmodel/jsonmodel
+af3a17f324e7ed27e137b280e52694217e7ed241	not-for-merge	tag '1.6.0' of https://github.com/jsonmodel/jsonmodel
+b99e14cf32e9b03fca96cd1a2beeb2e0fff1503a	not-for-merge	tag '1.7.0' of https://github.com/jsonmodel/jsonmodel
+7af01524b0a86dbcc8aa2b9f09a999372b11430d	not-for-merge	tag '1.8.0' of https://github.com/jsonmodel/jsonmodel

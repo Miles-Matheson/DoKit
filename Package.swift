@@ -1,192 +1,66 @@
-// swift-tools-version:5.3
-
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
-    name: "DoraemonKit",
+    name: "DoraemonKitSPM",
+    defaultLocalization: "en",
     platforms: [
-        .iOS(.v9)
+        .iOS(.v11)
     ],
     products: [
-        // 核心库
-        .library(
-            name: "DoraemonKit",
-            targets: ["DoraemonKit"]),
-        
-        // 功能模块
-        .library(
-            name: "DoraemonKitCore",
-            targets: ["DoraemonKitCore"]),
-        
-        .library(
-            name: "DoraemonKitFoundation",
-            targets: ["DoraemonKitFoundation"]),
-        
-        .library(
-            name: "DoraemonKitWithMultiControl",
-            targets: ["DoraemonKitWithMultiControl"]),
-        
-        .library(
-            name: "DoraemonKitWithLogger",
-            targets: ["DoraemonKitWithLogger"]),
-        
-        .library(
-            name: "DoraemonKitWithGPS",
-            targets: ["DoraemonKitWithGPS"]),
-        
-        .library(
-            name: "DoraemonKitWithLoad",
-            targets: ["DoraemonKitWithLoad"]),
-        
-        .library(
-            name: "DoraemonKitWithDatabase",
-            targets: ["DoraemonKitWithDatabase"]),
-        
-        .library(
-            name: "DoraemonKitWithMLeaksFinder",
-            targets: ["DoraemonKitWithMLeaksFinder"]),
-        
-        .library(
-            name: "DoraemonKitWithWeex",
-            targets: ["DoraemonKitWithWeex"]),
-        
-        // DoKit模块
-        .library(
-            name: "DoKit",
-            targets: ["DoKit"]),
+        .library(name: "DoraemonKitCore", targets: ["DoraemonKitCore"]),
+        .library(name: "DoraemonKitLogger", targets: ["DoraemonKitLogger"])
     ],
     dependencies: [
-        // 外部依赖
-        .package(name: "AFNetworking", url: "https://github.com/AFNetworking/AFNetworking.git", from: "3.2.0"),
-        .package(name: "FMDB", url: "https://github.com/ccgus/fmdb.git", from: "2.7.0"),
-        .package(name: "GCDWebServer", url: "https://github.com/swisspol/GCDWebServer.git", from: "3.5.0"),
-        .package(name: "JSONModel", url: "https://github.com/jsonmodel/jsonmodel.git", from: "1.8.0"),
-        .package(name: "Mantle", url: "https://github.com/Mantle/Mantle.git", from: "2.2.0"),
-        .package(name: "SocketRocket", url: "https://github.com/facebook/SocketRocket.git", from: "0.6.0"),
-        .package(name: "CocoaAsyncSocket", url: "https://github.com/robbiehanson/CocoaAsyncSocket.git", from: "7.6.0"),
-        .package(name: "CocoaHTTPServer", url: "https://github.com/robbiehanson/CocoaHTTPServer.git", from: "2.3.0"),
-        .package(name: "CocoaLumberjack", url: "https://github.com/CocoaLumberjack/CocoaLumberjack.git", from: "3.7.0"),
-        .package(name: "Masonry", url: "https://github.com/SnapKit/Masonry.git", from: "1.1.0"),
+        // FMDB 官方仓库（已支持 SPM）
+        .package(url: "https://github.com/ccgus/fmdb", from: "2.7.9"),
+        // CocoaLumberjack 官方 SPM
+        .package(url: "https://github.com/CocoaLumberjack/CocoaLumberjack.git", from: "3.8.0"),
+        // GCDWebServer 社区镜像（包含 Package.swift）。如需切换其它镜像，请保持产品名一致
+        .package(url: "https://github.com/ExistentialAudio/GCDWebServer", from: "3.6.0")
     ],
     targets: [
-        // 基础目标 - 完整库
-        .target(
-            name: "DoraemonKit",
-            dependencies: [
-                "DoraemonKitCore",
-                "DoraemonKitFoundation",
-                "DoraemonKitWithMultiControl",
-                "DoraemonKitWithLogger",
-                "DoraemonKitWithGPS",
-                "DoraemonKitWithLoad",
-                "DoraemonKitWithDatabase",
-                "DoraemonKitWithMLeaksFinder",
-                "DoraemonKitWithWeex",
-            ],
-            path: "iOS/DoraemonKit/Src"
-        ),
-        
-        // Core 模块
+        // Core：对齐 Podspec 中的 Core 子模块
         .target(
             name: "DoraemonKitCore",
-            dependencies: [
-                "AFNetworking",
-                "FMDB",
-                "GCDWebServer",
-                "JSONModel",
+            path: "iOS/DoraemonKit/Src/Core",
+            exclude: [],
+            resources: [
+                // DoKit 资源目录
+                .process("../../DoraemonKit/Resource")
             ],
-            path: "iOS/DoraemonKit/Src/Core"
-        ),
-        
-        // Foundation 模块
-        .target(
-            name: "DoraemonKitFoundation",
+            publicHeadersPath: ".",
+            cSettings: [],
+            linkerSettings: [],
             dependencies: [
-                "Mantle",
-                "SocketRocket",
-            ],
-            path: "iOS/DoraemonKit/Src/Foundation"
+                // GCDWebServer 及其子产品（WebUploader/WebDAV）由该镜像包内暴露，无需单独声明子产品
+                .product(name: "GCDWebServer", package: "GCDWebServer"),
+                .product(name: "FMDB", package: "fmdb")
+            ]
         ),
-        
-        // MultiControl 模块
+
+        // 可选 Logger：对齐 Podspec WithLogger
         .target(
-            name: "DoraemonKitWithMultiControl",
+            name: "DoraemonKitLogger",
+            path: "iOS/DoraemonKit/Src/Logger",
+            exclude: [],
+            publicHeadersPath: ".",
+            cSettings: [
+                .define("DoraemonWithLogger")
+            ],
             dependencies: [
                 "DoraemonKitCore",
-                "DoraemonKitFoundation",
-                "AFNetworking",
-                "CocoaHTTPServer",
-                "CocoaLumberjack",
-                "Masonry",
-                "SocketRocket",
-            ],
-            path: "iOS/DoraemonKit/Src/MultiControl"
+                .product(name: "CocoaLumberjack", package: "CocoaLumberjack")
+            ]
         ),
-        
-        // Logger 模块
-        .target(
-            name: "DoraemonKitWithLogger",
-            dependencies: [
-                "DoraemonKitCore",
-                "CocoaLumberjack",
-            ],
-            path: "iOS/DoraemonKit/Src/Logger"
-        ),
-        
-        // GPS 模块
-        .target(
-            name: "DoraemonKitWithGPS",
-            dependencies: [
-                "DoraemonKitCore",
-            ],
-            path: "iOS/DoraemonKit/Src/GPS"
-        ),
-        
-        // Load 模块
-        .target(
-            name: "DoraemonKitWithLoad",
-            dependencies: [
-                "DoraemonKitCore",
-            ],
-            path: "iOS/DoraemonKit/Src/MethodUseTime"
-        ),
-        
-        // Database 模块
-        .target(
-            name: "DoraemonKitWithDatabase",
-            dependencies: [
-                "DoraemonKitCore",
-                "FMDB",
-            ],
-            path: "iOS/DoraemonKit/Src/Database"
-        ),
-        
-        // MLeaksFinder 模块
-        .target(
-            name: "DoraemonKitWithMLeaksFinder",
-            dependencies: [
-                "DoraemonKitCore",
-            ],
-            path: "iOS/DoraemonKit/Src/MLeaksFinder"
-        ),
-        
-        // Weex 模块
-        .target(
-            name: "DoraemonKitWithWeex",
-            dependencies: [
-                "DoraemonKitCore",
-            ],
-            path: "iOS/DoraemonKit/Src/Weex"
-        ),
-        
-        // DoKit 模块
-        .target(
-            name: "DoKit",
-            dependencies: [
-                "AFNetworking",
-                "SocketRocket",
-            ],
-            path: "iOS/DoKit/Classes"
+
+        .testTarget(
+            name: "DoraemonKitTests",
+            dependencies: ["DoraemonKitCore"],
+            path: "iOS/Demo",
+            exclude: []
         )
     ]
 )
+
+
